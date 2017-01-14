@@ -49,6 +49,7 @@ Temporary Items
 # Build files
 /bin/
 /build/
+/dist/
 
 # Open Eclipse files
 *~
